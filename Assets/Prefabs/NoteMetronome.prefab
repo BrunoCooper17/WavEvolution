@@ -24,7 +24,7 @@ GameObject:
   - 114: {fileID: 114368030514513510}
   - 95: {fileID: 95383323426617834}
   m_Layer: 0
-  m_Name: Note
+  m_Name: NoteMetronome
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -145,7 +145,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b241fa8b4fbafa3438282e8513488db9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clipGood: {fileID: 0}
+  clipGood: {fileID: 8300000, guid: d8e22d0ef800e1b4e8402372b79ca0a7, type: 3}
   clipWrong: {fileID: 0}
 --- !u!212 &212549111485401626
 SpriteRenderer:

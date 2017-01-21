@@ -11,6 +11,8 @@ public class Note : MonoBehaviour {
     public AudioClip clipGood;
     public AudioClip clipWrong;
 
+    private bool bIsplayed = true;
+
     // Use this for initialization
     void Start () {
         // Animators
@@ -18,6 +20,11 @@ public class Note : MonoBehaviour {
 
         // Songs
         sound = GetComponent<AudioSource>();
+    }
+
+    public void Init()
+    {
+        bIsplayed = false;
     }
 
     public void PlaySong(bool isGood)
@@ -33,5 +40,11 @@ public class Note : MonoBehaviour {
         }
 
         sound.Play();
+        bIsplayed = true;
+    }
+
+    public bool IsPlayed()
+    {
+        return bIsplayed;
     }
 }

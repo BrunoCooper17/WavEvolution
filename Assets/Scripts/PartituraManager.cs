@@ -41,31 +41,43 @@ public class PartituraManager : MonoBehaviour {
         {
             Vector3 tmpPos = Partituras[PartituraActual].transform.position;
             tmpPos.x -= velocity * Time.deltaTime;
+            int notes = Partituras[PartituraActual].transform.childCount;
+            for (int index = 0; index < notes; index++)
+            {
+                Note tmpNote = Partituras[PartituraActual].transform.GetChild(index).GetComponent<Note>();
+                if (!tmpNote.IsPlayed() && Partituras[PartituraActual].transform.GetChild(index).position.x <= -6.0f)
+                {
+                    tmpNote.PlaySong(true);
+                }
+            }
+
             Partituras[PartituraActual].transform.position = tmpPos;
         }
 
-        // CHECK IF THE WAVE (PARTITURE) HAS ENDED
-        int notes = Partituras[PartituraActual].transform.childCount;
-        bool bLoadNext = true;
-        for (int index = 0; index < notes; index++)
         {
-            if(Partituras[PartituraActual].transform.GetChild(index).position.x > -7.0f)
+            // CHECK IF THE WAVE (PARTITURE) HAS ENDED
+            int notes = Partituras[PartituraActual].transform.childCount;
+            bool bLoadNext = true;
+            for (int index = 0; index < notes; index++)
             {
-                bLoadNext = false;
-            }
-        }
-
-        if (bLoadNext)
-        {
-            lastPartiture = PartituraActual;
-            PartituraActual++;
-            if (PartituraActual >= PartiturasRef.Length)
-            {
-                PartituraActual = 0;
+                if (Partituras[PartituraActual].transform.GetChild(index).position.x > -7.0f)
+                {
+                    bLoadNext = false;
+                }
             }
 
-            Invoke("LoadPartiture", 5.0f);
-            bWaitNextWave = true;
+            if (bLoadNext)
+            {
+                lastPartiture = PartituraActual;
+                PartituraActual++;
+                if (PartituraActual >= PartiturasRef.Length)
+                {
+                    PartituraActual = 0;
+                }
+
+                Invoke("LoadPartiture", 5.0f);
+                bWaitNextWave = true;
+            }
         }
     }
 
@@ -80,5 +92,11 @@ public class PartituraManager : MonoBehaviour {
         Partituras[PartituraActual].transform.position = tmpPos;
 
         bWaitNextWave = false;
+
+        int notes = Partituras[PartituraActual].transform.childCount;
+        for (int index = 0; index < notes; index++)
+        {
+            Partituras[PartituraActual].transform.GetChild(index).GetComponent<Note>().Init();
+        }
     }
 }
