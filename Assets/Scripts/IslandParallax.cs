@@ -1,7 +1,8 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class AmbientParallax : MonoBehaviour {
+public class IslandParallax : MonoBehaviour
+{
 
     public float LayerSize;
     public float LayerSeparation;
@@ -15,8 +16,9 @@ public class AmbientParallax : MonoBehaviour {
 
     private TrigonometriaClass TrigClass;
 
-	// Use this for initialization
-	void Start () {
+    // Use this for initialization
+    void Start()
+    {
         TrigClass = new TrigonometriaClass();
         TrigClass.init();
         // INSTANTIATE THE WAVES
@@ -24,18 +26,21 @@ public class AmbientParallax : MonoBehaviour {
         layerOffsetTime = new float[layerReference.Length];
         SetPositionScene();
     }
-	
-	// Update is called once per frame
-	void Update () {
-        
+
+    // Update is called once per frame
+    void Update()
+    {
+
         if (layerReference.Length > 1)
         {
             Oscillate();
-        } else {
+        }
+        else
+        {
             LoopLayer();
         }
-        
-        Repositioning();        
+
+        Repositioning();
     }
 
     private void SetPositionScene()
@@ -48,8 +53,7 @@ public class AmbientParallax : MonoBehaviour {
                 spritesLayers[layer, waveIndex] = Instantiate<GameObject>(layerReference[layer]);
 
                 Vector3 tmpPos = spritesLayers[layer, waveIndex].transform.position;
-                tmpPos.x = (waveIndex - 2) * LayerSize;
-                tmpPos.y = layer * LayerSeparation - InitialPostionOffsetY;
+                tmpPos.x = (waveIndex - 10) * LayerSize;
                 spritesLayers[layer, waveIndex].transform.position = tmpPos;
             }
         }
@@ -58,7 +62,7 @@ public class AmbientParallax : MonoBehaviour {
     /// <summary>
     /// Oscillate an assert in the scene
     /// </summary>
-    private void Oscillate ()
+    private void Oscillate()
     {
         for (int layer = 0; layer < layerReference.Length; layer++)
         {
@@ -66,8 +70,7 @@ public class AmbientParallax : MonoBehaviour {
             for (int waveIndex = 0; waveIndex < spritesPerLayer; waveIndex++)
             {
                 Vector3 tmpPos = spritesLayers[layer, waveIndex].transform.position;
-                tmpPos.x -= Time.deltaTime * GlobalVelocity + +TrigClass.precalculatedSinRad(layerOffsetTime[layer]) * 0.05f;
-                tmpPos.y = layer * LayerSeparation - InitialPostionOffsetY + TrigClass.precalculatedSinRad(layerOffsetTime[layer]) * 0.075f;
+                tmpPos.x -= Time.deltaTime * GlobalVelocity;
                 spritesLayers[layer, waveIndex].transform.position = tmpPos;
             }
         }
@@ -81,7 +84,7 @@ public class AmbientParallax : MonoBehaviour {
             for (int waveIndex = 0; waveIndex < spritesPerLayer; waveIndex++)
             {
                 Vector3 tmpPos = spritesLayers[layer, waveIndex].transform.position;
-                tmpPos.x -= Time.deltaTime * GlobalVelocity + +TrigClass.precalculatedSinRad(layerOffsetTime[layer]) * 0.05f;
+                tmpPos.x -= Time.deltaTime * GlobalVelocity;
                 spritesLayers[layer, waveIndex].transform.position = tmpPos;
             }
         }
@@ -90,7 +93,7 @@ public class AmbientParallax : MonoBehaviour {
     /// <summary>
     /// Repositioning the assert in the scene
     /// </summary>
-    private void Repositioning ()
+    private void Repositioning()
     {
         for (int layer = 0; layer < layerReference.Length; layer++)
         {
@@ -107,3 +110,4 @@ public class AmbientParallax : MonoBehaviour {
     }
 
 }
+
