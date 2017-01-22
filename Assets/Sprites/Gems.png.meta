@@ -1,0 +1,6900 @@
+fileFormatVersion: 2
+guid: 7e94741fb5a56fc43b8e5cc41f6a5bc4
+timeCreated: 1485032315
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Gema01_Layer1
+    21300002: Gema01_Layer2
+    21300004: Gema01_Layer3
+    21300006: Gema01_Layer4
+    21300008: Gema01_Layer5
+    21300010: Gema01_Layer6
+    21300012: Gema01_Layer7
+    21300014: Gema01_Layer8
+    21300016: Gema01_Layer9
+    21300018: Gema01_Layer10
+    21300020: Gema01_Layer11
+    21300022: Gema01_Layer12
+    21300024: Gema01_Layer13
+    21300026: Gema01_Layer14
+    21300028: Gema01_Layer15
+    21300030: Gema01_Layer16
+    21300032: Gema01_Layer17
+    21300034: Gema01_Layer18
+    21300036: Gema01_Layer19
+    21300038: Gema01_Layer20
+    21300040: Gema01_Layer21
+    21300042: Gema01_Layer22
+    21300044: Gema01_Layer23
+    21300046: Gema01_Layer24
+    21300048: Gema01_Layer25
+    21300050: Gema01_Layer26
+    21300052: Gema01_Layer27
+    21300054: Gema01_Layer28
+    21300056: Gema01_Layer29
+    21300058: Gema01_Layer30
+    21300060: Gema01_Layer31
+    21300062: Gema01_Layer32
+    21300064: Gema01_Layer33
+    21300066: Gema01_Layer34
+    21300068: Gema01_Layer35
+    21300070: Gema01_Layer36
+    21300072: Gema01_Layer37
+    21300074: Gema01_Layer38
+    21300076: Gema01_Layer39
+    21300078: Gema01_Layer40
+    21300080: Gema01_Layer41
+    21300082: Gema01_Layer42
+    21300084: Gema01_Layer43
+    21300086: Gema01_Layer44
+    21300088: Gema01_Layer45
+    21300090: Gema01_Layer46
+    21300092: Gema01_Layer47
+    21300094: Gema01_Layer48
+    21300096: Gema01_Layer49
+    21300098: Gema01_Layer50
+    21300100: Gema01_Layer51
+    21300102: Gema01_Layer52
+    21300104: Gema01_Layer53
+    21300106: Gema01_Layer54
+    21300108: Gema01_Layer55
+    21300110: Gema01_Layer56
+    21300112: Gema01_Layer57
+    21300114: Gema01_Layer58
+    21300116: Gema01_Layer59
+    21300118: Gema01_Layer60
+    21300120: Gema01_Layer61
+    21300122: Gema01_Layer62
+    21300124: Gema01_Layer63
+    21300126: Gema01_Layer64
+    21300128: Gema01_Layer65
+    21300130: Gema01_Layer66
+    21300132: Gema01_Layer67
+    21300134: Gema01_Layer68
+    21300136: Gema01_Layer69
+    21300138: Gema01_Layer70
+    21300140: Gema01_Layer71
+    21300142: Gema01_Layer72
+    21300144: Gema01_Layer73
+    21300146: Gema01_Layer74
+    21300148: Gema01_Layer75
+    21300150: Gema01_Layer76
+    21300152: Gema01_Layer77
+    21300154: Gema01_Layer78
+    21300156: Gema01_Layer79
+    21300158: Gema01_Layer80
+    21300160: Gema01_Layer81
+    21300162: Gema01_Layer82
+    21300164: Gema01_Layer83
+    21300166: Gema01_Layer84
+    21300168: Gema01_Layer85
+    21300170: Gema01_Layer86
+    21300172: Gema01_Layer87
+    21300174: Gema01_Layer88
+    21300176: Gema01_Layer89
+    21300178: Gema01_Layer90
+    21300180: Gema01_Layer91
+    21300182: Gema01_Layer92
+    21300184: Gema01_Layer93
+    21300186: Gema01_Layer94
+    21300188: Gema01_Layer95
+    21300190: Gema01_Layer96
+    21300192: Gema01_Layer97
+    21300194: Gema01_Layer98
+    21300196: Gema01_Layer99
+    21300198: Gema01_Layer100
+    21300200: Gema01_Layer101
+    21300202: Gema01_Layer102
+    21300204: Gema01_Layer103
+    21300206: Gema01_Layer104
+    21300208: Gema01_Layer105
+    21300210: Gema01_Layer106
+    21300212: Gema01_Layer107
+    21300214: Gema01_Layer108
+    21300216: Gema01_Layer109
+    21300218: Gema01_Layer110
+    21300220: Gema01_Layer111
+    21300222: Gema01_Layer112
+    21300224: Gema01_Layer113
+    21300226: Gema01_Layer114
+    21300228: Gema01_Layer115
+    21300230: Gema01_Layer116
+    21300232: Gema01_Layer117
+    21300234: Gema02_Layer1
+    21300236: Gema02_Layer2
+    21300238: Gema02_Layer3
+    21300240: Gema02_Layer4
+    21300242: Gema02_Layer5
+    21300244: Gema02_Layer6
+    21300246: Gema02_Layer7
+    21300248: Gema02_Layer8
+    21300250: Gema02_Layer9
+    21300252: Gema02_Layer10
+    21300254: Gema02_Layer11
+    21300256: Gema02_Layer12
+    21300258: Gema02_Layer13
+    21300260: Gema02_Layer14
+    21300262: Gema02_Layer15
+    21300264: Gema02_Layer16
+    21300266: Gema02_Layer17
+    21300268: Gema02_Layer18
+    21300270: Gema02_Layer19
+    21300272: Gema02_Layer20
+    21300274: Gema02_Layer21
+    21300276: Gema02_Layer22
+    21300278: Gema02_Layer23
+    21300280: Gema02_Layer24
+    21300282: Gema02_Layer25
+    21300284: Gema02_Layer26
+    21300286: Gema02_Layer27
+    21300288: Gema02_Layer28
+    21300290: Gema02_Layer29
+    21300292: Gema02_Layer30
+    21300294: Gema02_Layer31
+    21300296: Gema02_Layer32
+    21300298: Gema02_Layer33
+    21300300: Gema02_Layer34
+    21300302: Gema02_Layer35
+    21300304: Gema02_Layer36
+    21300306: Gema02_Layer37
+    21300308: Gema02_Layer38
+    21300310: Gema02_Layer39
+    21300312: Gema02_Layer40
+    21300314: Gema02_Layer41
+    21300316: Gema02_Layer42
+    21300318: Gema02_Layer43
+    21300320: Gema02_Layer44
+    21300322: Gema02_Layer45
+    21300324: Gema02_Layer46
+    21300326: Gema02_Layer47
+    21300328: Gema02_Layer48
+    21300330: Gema02_Layer49
+    21300332: Gema02_Layer50
+    21300334: Gema02_Layer51
+    21300336: Gema02_Layer52
+    21300338: Gema02_Layer53
+    21300340: Gema02_Layer54
+    21300342: Gema02_Layer55
+    21300344: Gema02_Layer56
+    21300346: Gema02_Layer57
+    21300348: Gema02_Layer58
+    21300350: Gema02_Layer59
+    21300352: Gema02_Layer60
+    21300354: Gema02_Layer61
+    21300356: Gema02_Layer62
+    21300358: Gema02_Layer63
+    21300360: Gema02_Layer64
+    21300362: Gema02_Layer65
+    21300364: Gema02_Layer66
+    21300366: Gema02_Layer67
+    21300368: Gema02_Layer68
+    21300370: Gema02_Layer69
+    21300372: Gema02_Layer70
+    21300374: Gema02_Layer71
+    21300376: Gema02_Layer72
+    21300378: Gema02_Layer73
+    21300380: Gema02_Layer74
+    21300382: Gema02_Layer75
+    21300384: Gema02_Layer76
+    21300386: Gema02_Layer77
+    21300388: Gema02_Layer78
+    21300390: Gema02_Layer79
+    21300392: Gema02_Layer80
+    21300394: Gema02_Layer81
+    21300396: Gema02_Layer82
+    21300398: Gema02_Layer83
+    21300400: Gema02_Layer84
+    21300402: Gema02_Layer85
+    21300404: Gema02_Layer86
+    21300406: Gema02_Layer87
+    21300408: Gema02_Layer88
+    21300410: Gema02_Layer89
+    21300412: Gema02_Layer90
+    21300414: Gema02_Layer91
+    21300416: Gema02_Layer92
+    21300418: Gema02_Layer93
+    21300420: Gema02_Layer94
+    21300422: Gema02_Layer95
+    21300424: Gema02_Layer96
+    21300426: Gema02_Layer97
+    21300428: Gema02_Layer98
+    21300430: Gema02_Layer99
+    21300432: Gema02_Layer100
+    21300434: Gema02_Layer101
+    21300436: Gema02_Layer102
+    21300438: Gema02_Layer103
+    21300440: Gema02_Layer104
+    21300442: Gema02_Layer105
+    21300444: Gema02_Layer106
+    21300446: Gema02_Layer107
+    21300448: Gema02_Layer108
+    21300450: Gema02_Layer109
+    21300452: Gema02_Layer110
+    21300454: Gema02_Layer111
+    21300456: Gema02_Layer112
+    21300458: Gema02_Layer113
+    21300460: Gema02_Layer114
+    21300462: Gema02_Layer115
+    21300464: Gema02_Layer116
+    21300466: Gema03_Layer1
+    21300468: Gema03_Layer2
+    21300470: Gema03_Layer3
+    21300472: Gema03_Layer4
+    21300474: Gema03_Layer5
+    21300476: Gema03_Layer6
+    21300478: Gema03_Layer7
+    21300480: Gema03_Layer8
+    21300482: Gema03_Layer9
+    21300484: Gema03_Layer10
+    21300486: Gema03_Layer11
+    21300488: Gema03_Layer12
+    21300490: Gema03_Layer13
+    21300492: Gema03_Layer14
+    21300494: Gema03_Layer15
+    21300496: Gema03_Layer16
+    21300498: Gema03_Layer17
+    21300500: Gema03_Layer18
+    21300502: Gema03_Layer19
+    21300504: Gema03_Layer20
+    21300506: Gema03_Layer21
+    21300508: Gema03_Layer22
+    21300510: Gema03_Layer23
+    21300512: Gema03_Layer24
+    21300514: Gema03_Layer25
+    21300516: Gema03_Layer26
+    21300518: Gema03_Layer27
+    21300520: Gema03_Layer28
+    21300522: Gema03_Layer29
+    21300524: Gema03_Layer30
+    21300526: Gema03_Layer31
+    21300528: Gema03_Layer32
+    21300530: Gema03_Layer33
+    21300532: Gema03_Layer34
+    21300534: Gema03_Layer35
+    21300536: Gema03_Layer36
+    21300538: Gema03_Layer37
+    21300540: Gema03_Layer38
+    21300542: Gema03_Layer39
+    21300544: Gema03_Layer40
+    21300546: Gema03_Layer41
+    21300548: Gema03_Layer42
+    21300550: Gema03_Layer43
+    21300552: Gema03_Layer44
+    21300554: Gema03_Layer45
+    21300556: Gema03_Layer46
+    21300558: Gema03_Layer47
+    21300560: Gema03_Layer48
+    21300562: Gema03_Layer49
+    21300564: Gema03_Layer50
+    21300566: Gema03_Layer51
+    21300568: Gema03_Layer52
+    21300570: Gema03_Layer53
+    21300572: Gema03_Layer54
+    21300574: Gema03_Layer55
+    21300576: Gema03_Layer56
+    21300578: Gema03_Layer57
+    21300580: Gema03_Layer58
+    21300582: Gema03_Layer59
+    21300584: Gema03_Layer60
+    21300586: Gema03_Layer61
+    21300588: Gema03_Layer62
+    21300590: Gema03_Layer63
+    21300592: Gema03_Layer64
+    21300594: Gema03_Layer65
+    21300596: Gema03_Layer66
+    21300598: Gema03_Layer67
+    21300600: Gema03_Layer68
+    21300602: Gema03_Layer69
+    21300604: Gema03_Layer70
+    21300606: Gema03_Layer71
+    21300608: Gema03_Layer72
+    21300610: Gema03_Layer73
+    21300612: Gema03_Layer74
+    21300614: Gema03_Layer75
+    21300616: Gema03_Layer76
+    21300618: Gema03_Layer77
+    21300620: Gema03_Layer78
+    21300622: Gema03_Layer79
+    21300624: Gema03_Layer80
+    21300626: Gema03_Layer81
+    21300628: Gema03_Layer82
+    21300630: Gema03_Layer83
+    21300632: Gema03_Layer84
+    21300634: Gema03_Layer85
+    21300636: Gema03_Layer86
+    21300638: Gema03_Layer87
+    21300640: Gema03_Layer88
+    21300642: Gema03_Layer89
+    21300644: Gema03_Layer90
+    21300646: Gema03_Layer91
+    21300648: Gema03_Layer92
+    21300650: Gema03_Layer93
+    21300652: Gema03_Layer94
+    21300654: Gema03_Layer95
+    21300656: Gema03_Layer96
+    21300658: Gema03_Layer97
+    21300660: Gema03_Layer98
+    21300662: Gema03_Layer99
+    21300664: Gema03_Layer100
+    21300666: Gema03_Layer101
+    21300668: Gema03_Layer102
+    21300670: Gema03_Layer103
+    21300672: Gema03_Layer104
+    21300674: Gema03_Layer105
+    21300676: Gema03_Layer106
+    21300678: Gema03_Layer107
+    21300680: Gema03_Layer108
+    21300682: Gema03_Layer109
+    21300684: Gema03_Layer110
+    21300686: Gema03_Layer111
+    21300688: Gema03_Layer112
+    21300690: Gema03_Layer113
+    21300692: Gema03_Layer114
+    21300694: Gema03_Layer115
+    21300696: Layer 1
+    21300698: Layer 2
+    21300700: Layer 3
+    21300702: Layer 4
+    21300704: Layer 5
+    21300706: Layer 6
+    21300708: Layer 7
+    21300710: Layer 8
+    21300712: Layer 9
+    21300714: Layer 10
+    21300716: Layer 11
+    21300718: Layer 12
+    21300720: Layer 13
+    21300722: Layer 14
+    21300724: Layer 15
+    21300726: Layer 16
+    21300728: Layer 17
+    21300730: Layer 18
+    21300732: Layer 19
+    21300734: Layer 20
+    21300736: Layer 21
+    21300738: Layer 22
+    21300740: Layer 23
+    21300742: Layer 24
+    21300744: Layer 25
+    21300746: Layer 26
+    21300748: Layer 27
+    21300750: Layer 28
+    21300752: Layer 29
+    21300754: Layer 30
+    21300756: Layer 31
+    21300758: Layer 32
+    21300760: Layer 33
+    21300762: Layer 34
+    21300764: Layer 35
+    21300766: Layer 36
+    21300768: Layer 37
+    21300770: Layer 38
+    21300772: Layer 39
+    21300774: Layer 40
+    21300776: Layer 41
+    21300778: Layer 42
+    21300780: Layer 43
+    21300782: Layer 44
+    21300784: Layer 45
+    21300786: Layer 46
+    21300788: Layer 47
+    21300790: Layer 48
+    21300792: Layer 49
+    21300794: Layer 50
+    21300796: Layer 51
+    21300798: Layer 52
+    21300800: Layer 53
+    21300802: Layer 54
+    21300804: Layer 55
+    21300806: Layer 56
+    21300808: Layer 57
+    21300810: Layer 58
+    21300812: Layer 59
+    21300814: Layer 60
+    21300816: Layer 61
+    21300818: Layer 62
+    21300820: Layer 63
+    21300822: Layer 64
+    21300824: Layer 65
+    21300826: Layer 66
+    21300828: Layer 67
+    21300830: Layer 68
+    21300832: Layer 69
+    21300834: Layer 70
+    21300836: Layer 71
+    21300838: Layer 72
+    21300840: Layer 73
+    21300842: Layer 74
+    21300844: Layer 75
+    21300846: Layer 76
+    21300848: Layer 77
+    21300850: Layer 78
+    21300852: Layer 79
+    21300854: Layer 80
+    21300856: Layer 81
+    21300858: Layer 82
+    21300860: Layer 83
+    21300862: Layer 84
+    21300864: Layer 85
+    21300866: Layer 86
+    21300868: Layer 87
+    21300870: Layer 88
+    21300872: Layer 89
+    21300874: Layer 90
+    21300876: Layer 91
+    21300878: Layer 92
+    21300880: Layer 93
+    21300882: Layer 94
+    21300884: Layer 95
+    21300886: Layer 96
+    21300888: Layer 97
+    21300890: Layer 98
+    21300892: Layer 99
+    21300894: Layer 100
+    21300896: Layer 101
+    21300898: Layer 102
+    21300900: Layer 103
+    21300902: Layer 104
+    21300904: Layer 105
+    21300906: Layer 106
+    21300908: Layer 107
+    21300910: Layer 108
+    21300912: Layer 109
+    21300914: Layer 110
+    21300916: Layer 111
+    21300918: Layer 112
+    21300920: Layer 113
+    21300922: Layer 114
+    21300924: Layer 115
+    21300926: Layer 116
+    21300928: Layer 117
+    21300930: Layer 118
+    21300932: Layer 119
+    21300934: Layer 120
+    21300936: Layer 121
+    21300938: Layer 122
+    21300940: Layer 123
+    21300942: Layer 124
+    21300944: Layer 125
+    21300946: POP_Layer3
+    21300948: POP_Layer4
+    21300950: POP_Layer5
+    21300952: POP_Layer6
+    21300954: POP_Layer7
+    21300956: POP_Layer8
+    21300958: POP_Layer9
+    21300960: POP_Layer10
+    21300962: POP_Layer11
+    21300964: POP_Layer12
+    21300966: POP_Layer13
+    21300968: POP_Layer14
+    21300970: POP_Layer15
+    21300972: POP_Layer16
+    21300974: POP_Layer17
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gema01_Layer1
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1555
+        width: 83
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer2
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1118
+        width: 83
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer3
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1383
+        width: 83
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer4
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 947
+        width: 83
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer5
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 1438
+        width: 83
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.48809522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer6
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 1806
+        width: 85
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5058824, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer7
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1693
+        width: 84
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5119048, y: 0.48809522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer8
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 85
+        width: 84
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5119048, y: 0.4878049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer9
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 921
+        width: 85
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5176471, y: 0.4878049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer10
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1393
+        width: 86
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5232558, y: 0.48192772}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer11
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 1160
+        width: 86
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5232558, y: 0.4878049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer12
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1195
+        width: 85
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5176471, y: 0.48192772}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer13
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 1472
+        width: 87
+        height: 82
+      alignment: 9
+      pivot: {x: 0.51724136, y: 0.47560975}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer14
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1186
+        width: 86
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5116279, y: 0.47560975}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer15
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1056
+        width: 86
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5116279, y: 0.4814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer16
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 936
+        width: 87
+        height: 80
+      alignment: 9
+      pivot: {x: 0.51724136, y: 0.4875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer17
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 978
+        width: 87
+        height: 80
+      alignment: 9
+      pivot: {x: 0.51724136, y: 0.4875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer18
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 520
+        width: 86
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5116279, y: 0.4814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer19
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 157
+        width: 86
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5116279, y: 0.4875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer20
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1268
+        width: 88
+        height: 80
+      alignment: 9
+      pivot: {x: 0.52272725, y: 0.4875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer21
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 1465
+        width: 88
+        height: 81
+      alignment: 9
+      pivot: {x: 0.52272725, y: 0.4814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer22
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 1809
+        width: 88
+        height: 82
+      alignment: 9
+      pivot: {x: 0.52272725, y: 0.4878049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer23
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 1809
+        width: 88
+        height: 82
+      alignment: 9
+      pivot: {x: 0.52272725, y: 0.4878049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer24
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1698
+        width: 87
+        height: 81
+      alignment: 9
+      pivot: {x: 0.51724136, y: 0.49382716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer25
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 1081
+        width: 88
+        height: 81
+      alignment: 9
+      pivot: {x: 0.52272725, y: 0.4814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer26
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 1085
+        width: 88
+        height: 81
+      alignment: 9
+      pivot: {x: 0.52272725, y: 0.4814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer27
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1571
+        width: 88
+        height: 81
+      alignment: 9
+      pivot: {x: 0.52272725, y: 0.4814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer28
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1564
+        width: 88
+        height: 81
+      alignment: 9
+      pivot: {x: 0.52272725, y: 0.4814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer29
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 419
+        width: 87
+        height: 80
+      alignment: 9
+      pivot: {x: 0.51724136, y: 0.4875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer30
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1809
+        width: 88
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4878049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer31
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1302
+        width: 86
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5232558, y: 0.4878049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer32
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 1157
+        width: 86
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5232558, y: 0.48192772}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer33
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 45
+        width: 84
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5119048, y: 0.4878049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer34
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 437
+        width: 85
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5058824, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer35
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 717
+        width: 84
+        height: 86
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.4883721}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer36
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1128
+        width: 83
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer37
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 1625
+        width: 82
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer38
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 1146
+        width: 82
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.4827586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer39
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1117
+        width: 81
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5185185, y: 0.4827586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer40
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 771
+        width: 81
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5185185, y: 0.4827586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer41
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 841
+        width: 80
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5125, y: 0.48863637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer42
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 1090
+        width: 80
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5125, y: 0.48314607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer43
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1481
+        width: 80
+        height: 89
+      alignment: 9
+      pivot: {x: 0.525, y: 0.48314607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer44
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 1557
+        width: 80
+        height: 89
+      alignment: 9
+      pivot: {x: 0.525, y: 0.48314607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer45
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 712
+        width: 78
+        height: 90
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.4888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer46
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 876
+        width: 78
+        height: 90
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.4888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer47
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 18
+        width: 78
+        height: 88
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.48863637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer48
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 1075
+        width: 78
+        height: 90
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.47777778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer49
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 1072
+        width: 77
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5194805, y: 0.48351648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer50
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 1799
+        width: 78
+        height: 92
+      alignment: 9
+      pivot: {x: 0.525641, y: 0.48913044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer51
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 1080
+        width: 76
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5131579, y: 0.48913044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer52
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 779
+        width: 76
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5131579, y: 0.48351648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer53
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 54
+        width: 76
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5131579, y: 0.4888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer54
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 92
+        width: 76
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5131579, y: 0.4888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer55
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 1403
+        width: 76
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5131579, y: 0.48387095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer56
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 1218
+        width: 76
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5131579, y: 0.48387095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer57
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 814
+        width: 76
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5131579, y: 0.47826087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer58
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 971
+        width: 75
+        height: 93
+      alignment: 9
+      pivot: {x: 0.52, y: 0.48387095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer59
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 1306
+        width: 75
+        height: 94
+      alignment: 9
+      pivot: {x: 0.52, y: 0.4893617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer60
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 862
+        width: 76
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5131579, y: 0.47826087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer61
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 494
+        width: 76
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5131579, y: 0.48351648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer62
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 931
+        width: 78
+        height: 90
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.47777778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer63
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 992
+        width: 78
+        height: 90
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.4888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer64
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1071
+        width: 80
+        height: 89
+      alignment: 9
+      pivot: {x: 0.525, y: 0.48314607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer65
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 885
+        width: 79
+        height: 89
+      alignment: 9
+      pivot: {x: 0.51898736, y: 0.48314607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer66
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1598
+        width: 81
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5185185, y: 0.49425286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer67
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 957
+        width: 80
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5125, y: 0.4827586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer68
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 1154
+        width: 82
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5243902, y: 0.4827586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer69
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1562
+        width: 81
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5185185, y: 0.4827586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer70
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1508
+        width: 82
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.47674417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer71
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 821
+        width: 83
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5060241, y: 0.48809522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer72
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1483
+        width: 84
+        height: 84
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.48809522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer73
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1156
+        width: 84
+        height: 85
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer74
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1400
+        width: 83
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer75
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1664
+        width: 84
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5119048, y: 0.47619048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer76
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 719
+        width: 84
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5119048, y: 0.48192772}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer77
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 58
+        width: 84
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5119048, y: 0.4878049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer78
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 577
+        width: 85
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5176471, y: 0.4878049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer79
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1232
+        width: 86
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5232558, y: 0.48192772}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer80
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 1565
+        width: 86
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5232558, y: 0.48192772}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer81
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1419
+        width: 86
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5232558, y: 0.4878049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer82
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1478
+        width: 86
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5232558, y: 0.48192772}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer83
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 879
+        width: 85
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5176471, y: 0.4878049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer84
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 712
+        width: 84
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5119048, y: 0.48192772}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer85
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1724
+        width: 86
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5116279, y: 0.4878049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer86
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1402
+        width: 85
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5058824, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer87
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 974
+        width: 83
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer88
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1241
+        width: 84
+        height: 85
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer89
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 998
+        width: 84
+        height: 84
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.48809522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer90
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 1033
+        width: 82
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.49411765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer91
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 145
+        width: 82
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.48809522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer92
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1064
+        width: 83
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer93
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 175
+        width: 82
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer94
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 1723
+        width: 83
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5060241, y: 0.4827586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer95
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1387
+        width: 83
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5060241, y: 0.47674417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer96
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 1724
+        width: 83
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5060241, y: 0.4827586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer97
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 203
+        width: 82
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer98
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1134
+        width: 83
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer99
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1032
+        width: 83
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5060241, y: 0.49411765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer100
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 123
+        width: 82
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.48809522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer101
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 607
+        width: 82
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.49411765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer102
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 456
+        width: 82
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer103
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 442
+        width: 82
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer104
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 449
+        width: 83
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.48809522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer105
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 457
+        width: 83
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.48809522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer106
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 1386
+        width: 84
+        height: 85
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer107
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1306
+        width: 84
+        height: 85
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer108
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1490
+        width: 84
+        height: 86
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.4883721}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer109
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1400
+        width: 84
+        height: 85
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer110
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 1317
+        width: 84
+        height: 85
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer111
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1309
+        width: 83
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer112
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 1156
+        width: 83
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer113
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1611
+        width: 83
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer114
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1350
+        width: 83
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer115
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1201
+        width: 83
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer116
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1286
+        width: 83
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema01_Layer117
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1645
+        width: 83
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer1
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 1236
+        width: 83
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.4883721}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer2
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1176
+        width: 83
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.4883721}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer3
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 1724
+        width: 83
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.4883721}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer4
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 1252
+        width: 85
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5058824, y: 0.47619048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer5
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 1572
+        width: 85
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5176471, y: 0.47619048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer6
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1463
+        width: 84
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5119048, y: 0.48809522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer7
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 39
+        width: 84
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5119048, y: 0.4878049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer8
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 337
+        width: 85
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5176471, y: 0.4878049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer9
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 1493
+        width: 86
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5232558, y: 0.48192772}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer10
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 980
+        width: 86
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5232558, y: 0.4878049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer11
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 249
+        width: 85
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5176471, y: 0.4878049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer12
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 1640
+        width: 87
+        height: 82
+      alignment: 9
+      pivot: {x: 0.51724136, y: 0.47560975}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer13
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1579
+        width: 86
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5116279, y: 0.47560975}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer14
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1734
+        width: 88
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5113636, y: 0.4878049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer15
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 190
+        width: 87
+        height: 80
+      alignment: 9
+      pivot: {x: 0.51724136, y: 0.4875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer16
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 203
+        width: 87
+        height: 80
+      alignment: 9
+      pivot: {x: 0.51724136, y: 0.4875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer17
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 202
+        width: 86
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5116279, y: 0.4814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer18
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 111
+        width: 86
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5116279, y: 0.4875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer19
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 585
+        width: 88
+        height: 81
+      alignment: 9
+      pivot: {x: 0.52272725, y: 0.49382716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer20
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 1569
+        width: 88
+        height: 81
+      alignment: 9
+      pivot: {x: 0.52272725, y: 0.4814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1270
+        width: 88
+        height: 82
+      alignment: 9
+      pivot: {x: 0.52272725, y: 0.4878049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer22
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1809
+        width: 88
+        height: 82
+      alignment: 9
+      pivot: {x: 0.52272725, y: 0.4878049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer23
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 364
+        width: 87
+        height: 80
+      alignment: 9
+      pivot: {x: 0.51724136, y: 0.4875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer24
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 1647
+        width: 88
+        height: 81
+      alignment: 9
+      pivot: {x: 0.52272725, y: 0.4814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer25
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 669
+        width: 88
+        height: 81
+      alignment: 9
+      pivot: {x: 0.52272725, y: 0.4814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer26
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1656
+        width: 88
+        height: 80
+      alignment: 9
+      pivot: {x: 0.52272725, y: 0.4875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer27
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 1809
+        width: 88
+        height: 82
+      alignment: 9
+      pivot: {x: 0.52272725, y: 0.4878049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer28
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 51
+        width: 86
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5116279, y: 0.4875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer29
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 803
+        width: 86
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5116279, y: 0.47560975}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer30
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 778
+        width: 86
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5232558, y: 0.4878049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer31
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 380
+        width: 85
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5176471, y: 0.4878049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer32
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 840
+        width: 85
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5058824, y: 0.4939759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer33
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 907
+        width: 85
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5058824, y: 0.48192772}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer34
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1653
+        width: 84
+        height: 85
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer35
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1
+        width: 82
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.48809522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer36
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 389
+        width: 82
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer37
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1645
+        width: 81
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5185185, y: 0.48863637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer38
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 1231
+        width: 82
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5243902, y: 0.4827586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer39
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 382
+        width: 80
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5125, y: 0.4827586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer40
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 1489
+        width: 81
+        height: 88
+      alignment: 9
+      pivot: {x: 0.50617284, y: 0.48863637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer41
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 1487
+        width: 80
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5125, y: 0.48314607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer42
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 891
+        width: 79
+        height: 89
+      alignment: 9
+      pivot: {x: 0.51898736, y: 0.48314607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer43
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 1326
+        width: 80
+        height: 89
+      alignment: 9
+      pivot: {x: 0.525, y: 0.48314607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer44
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 361
+        width: 78
+        height: 89
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.48314607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer45
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 751
+        width: 78
+        height: 90
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.4888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer46
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 954
+        width: 78
+        height: 90
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.47777778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer47
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 735
+        width: 78
+        height: 90
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.47777778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer48
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1046
+        width: 77
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5194805, y: 0.4945055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer49
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1435
+        width: 78
+        height: 90
+      alignment: 9
+      pivot: {x: 0.525641, y: 0.4888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer50
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 289
+        width: 76
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5131579, y: 0.4945055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer51
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 287
+        width: 76
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5131579, y: 0.48351648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer52
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 1800
+        width: 76
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5131579, y: 0.48351648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer53
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 38
+        width: 76
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5131579, y: 0.4888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer54
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 1325
+        width: 76
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5131579, y: 0.48387095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer55
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 1024
+        width: 76
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5131579, y: 0.47826087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer56
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 1051
+        width: 76
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5131579, y: 0.47826087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer57
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 1714
+        width: 75
+        height: 94
+      alignment: 9
+      pivot: {x: 0.52, y: 0.4893617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer58
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 1312
+        width: 76
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5131579, y: 0.48387095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer59
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 295
+        width: 76
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5131579, y: 0.48351648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer60
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1371
+        width: 77
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5194805, y: 0.4945055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer61
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1553
+        width: 78
+        height: 90
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.47777778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer62
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 333
+        width: 78
+        height: 89
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.49438202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer63
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 314
+        width: 78
+        height: 89
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.48314607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer64
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1462
+        width: 79
+        height: 89
+      alignment: 9
+      pivot: {x: 0.51898736, y: 0.48314607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer65
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 301
+        width: 81
+        height: 86
+      alignment: 9
+      pivot: {x: 0.50617284, y: 0.4883721}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer66
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 299
+        width: 80
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5125, y: 0.4827586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer67
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 1242
+        width: 82
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5243902, y: 0.4827586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer68
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 1243
+        width: 82
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.4827586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer69
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1354
+        width: 84
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47674417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer70
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 6
+        width: 82
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.48809522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer71
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 362
+        width: 83
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.48809522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer72
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1315
+        width: 83
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer73
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 1325
+        width: 85
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5058824, y: 0.47619048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer74
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1527
+        width: 86
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5116279, y: 0.4878049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer75
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 276
+        width: 84
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5119048, y: 0.48192772}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer76
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 125
+        width: 84
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5119048, y: 0.4878049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer77
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1249
+        width: 85
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5176471, y: 0.48192772}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer78
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 1329
+        width: 86
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5232558, y: 0.48192772}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer79
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1335
+        width: 85
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5176471, y: 0.48192772}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer80
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1090
+        width: 86
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5232558, y: 0.48192772}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer81
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 400
+        width: 85
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5176471, y: 0.4878049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer82
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1052
+        width: 85
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5176471, y: 0.48192772}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer83
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1134
+        width: 84
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5119048, y: 0.48809522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer84
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1002
+        width: 85
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5176471, y: 0.47619048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer85
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1219
+        width: 85
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5058824, y: 0.48192772}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer86
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 1565
+        width: 84
+        height: 85
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer87
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 852
+        width: 84
+        height: 85
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer88
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 333
+        width: 82
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer89
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 125
+        width: 82
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.48809522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer90
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 351
+        width: 83
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5060241, y: 0.48809522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer91
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 268
+        width: 82
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer92
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 277
+        width: 82
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer93
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1723
+        width: 84
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47674417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer94
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 1407
+        width: 83
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5060241, y: 0.47674417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer95
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 198
+        width: 82
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer96
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 158
+        width: 82
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer97
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 1403
+        width: 83
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5060241, y: 0.4883721}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer98
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 181
+        width: 83
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5060241, y: 0.48809522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer99
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 141
+        width: 82
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.48809522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer100
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 231
+        width: 82
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.49411765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer101
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 207
+        width: 82
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer102
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 413
+        width: 82
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer103
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 236
+        width: 83
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.48809522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer104
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1146
+        width: 84
+        height: 84
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.48809522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer105
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 1649
+        width: 84
+        height: 85
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer106
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1441
+        width: 84
+        height: 85
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer107
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1138
+        width: 84
+        height: 86
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.4883721}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer108
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1264
+        width: 84
+        height: 85
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer109
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 967
+        width: 83
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer110
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 825
+        width: 83
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer111
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 911
+        width: 83
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer112
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1060
+        width: 83
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer113
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1351
+        width: 83
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.4883721}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer114
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 1639
+        width: 83
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.4883721}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer115
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1651
+        width: 83
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema02_Layer116
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1569
+        width: 83
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer1
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1223
+        width: 83
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer2
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 1722
+        width: 85
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5058824, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer3
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 1568
+        width: 85
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5058824, y: 0.48809522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer4
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 658
+        width: 85
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5058824, y: 0.4939759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer5
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 281
+        width: 84
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5119048, y: 0.48192772}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer6
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 27
+        width: 84
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5119048, y: 0.4878049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer7
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 1409
+        width: 86
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5232558, y: 0.48192772}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer8
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 535
+        width: 85
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5176471, y: 0.48192772}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer9
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 536
+        width: 86
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5232558, y: 0.4878049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer10
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 1487
+        width: 86
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5232558, y: 0.4939759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer11
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 1733
+        width: 87
+        height: 83
+      alignment: 9
+      pivot: {x: 0.51724136, y: 0.48192772}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer12
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 1413
+        width: 87
+        height: 82
+      alignment: 9
+      pivot: {x: 0.50574714, y: 0.4878049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer13
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 438
+        width: 87
+        height: 81
+      alignment: 9
+      pivot: {x: 0.51724136, y: 0.4814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer14
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 165
+        width: 87
+        height: 80
+      alignment: 9
+      pivot: {x: 0.51724136, y: 0.4875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer15
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 202
+        width: 86
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5116279, y: 0.4814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer16
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 133
+        width: 86
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5116279, y: 0.4875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer17
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 1489
+        width: 88
+        height: 81
+      alignment: 9
+      pivot: {x: 0.52272725, y: 0.4814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer18
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 526
+        width: 88
+        height: 80
+      alignment: 9
+      pivot: {x: 0.52272725, y: 0.4875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer19
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 1728
+        width: 88
+        height: 82
+      alignment: 9
+      pivot: {x: 0.52272725, y: 0.4878049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer20
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1730
+        width: 88
+        height: 82
+      alignment: 9
+      pivot: {x: 0.52272725, y: 0.4878049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer21
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 1718
+        width: 88
+        height: 81
+      alignment: 9
+      pivot: {x: 0.52272725, y: 0.49382716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer22
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 584
+        width: 88
+        height: 80
+      alignment: 9
+      pivot: {x: 0.52272725, y: 0.4875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer23
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 1642
+        width: 88
+        height: 81
+      alignment: 9
+      pivot: {x: 0.52272725, y: 0.4814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer24
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 1568
+        width: 88
+        height: 81
+      alignment: 9
+      pivot: {x: 0.52272725, y: 0.4814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer25
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1318
+        width: 88
+        height: 82
+      alignment: 9
+      pivot: {x: 0.52272725, y: 0.4878049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer26
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 591
+        width: 88
+        height: 80
+      alignment: 9
+      pivot: {x: 0.52272725, y: 0.4875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer27
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 363
+        width: 87
+        height: 80
+      alignment: 9
+      pivot: {x: 0.51724136, y: 0.4875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer28
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 1809
+        width: 88
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5113636, y: 0.4878049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer29
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 743
+        width: 86
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5232558, y: 0.4878049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer30
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 135
+        width: 84
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5119048, y: 0.4878049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer31
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 401
+        width: 85
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5058824, y: 0.4878049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer32
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 509
+        width: 83
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer33
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 277
+        width: 83
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.48809522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer34
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 122
+        width: 82
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.48809522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer35
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1082
+        width: 84
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47674417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer36
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 491
+        width: 81
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5185185, y: 0.4827586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer37
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 737
+        width: 81
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5185185, y: 0.4827586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer38
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 333
+        width: 80
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5125, y: 0.4827586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer39
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 322
+        width: 81
+        height: 86
+      alignment: 9
+      pivot: {x: 0.50617284, y: 0.4883721}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer40
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 940
+        width: 79
+        height: 89
+      alignment: 9
+      pivot: {x: 0.51898736, y: 0.48314607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer41
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 683
+        width: 79
+        height: 89
+      alignment: 9
+      pivot: {x: 0.51898736, y: 0.48314607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer42
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 620
+        width: 78
+        height: 90
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.4888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer43
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 323
+        width: 78
+        height: 89
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.49438202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer44
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 311
+        width: 78
+        height: 89
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.49438202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer45
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 866
+        width: 78
+        height: 90
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.47777778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer46
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 1236
+        width: 77
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5194805, y: 0.48913044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer47
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 1327
+        width: 78
+        height: 91
+      alignment: 9
+      pivot: {x: 0.525641, y: 0.48351648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer48
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 1240
+        width: 78
+        height: 91
+      alignment: 9
+      pivot: {x: 0.525641, y: 0.4945055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer49
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 45
+        width: 76
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5131579, y: 0.4888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer50
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 46
+        width: 76
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5131579, y: 0.4888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer51
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 620
+        width: 76
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5131579, y: 0.4787234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer52
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 524
+        width: 76
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5131579, y: 0.4787234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer53
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 1798
+        width: 77
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5064935, y: 0.48387095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer54
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 746
+        width: 76
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5131579, y: 0.47826087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer55
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 1233
+        width: 75
+        height: 94
+      alignment: 9
+      pivot: {x: 0.52, y: 0.4893617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer56
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 1318
+        width: 75
+        height: 94
+      alignment: 9
+      pivot: {x: 0.52, y: 0.4893617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer57
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 790
+        width: 76
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5131579, y: 0.47826087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer58
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 287
+        width: 76
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5131579, y: 0.48351648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer59
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 981
+        width: 78
+        height: 92
+      alignment: 9
+      pivot: {x: 0.525641, y: 0.48913044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer60
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 992
+        width: 78
+        height: 90
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.47777778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer61
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 340
+        width: 78
+        height: 89
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.49438202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer62
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 660
+        width: 79
+        height: 89
+      alignment: 9
+      pivot: {x: 0.51898736, y: 0.48314607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer63
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1328
+        width: 80
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5125, y: 0.48314607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer64
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 508
+        width: 81
+        height: 87
+      alignment: 9
+      pivot: {x: 0.50617284, y: 0.49425286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer65
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 724
+        width: 81
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5185185, y: 0.4827586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer66
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 814
+        width: 81
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5185185, y: 0.4827586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer67
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 448
+        width: 82
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.47674417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer68
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 670
+        width: 83
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5060241, y: 0.49411765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer69
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 122
+        width: 82
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.48809522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer70
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 1404
+        width: 84
+        height: 85
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer71
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 690
+        width: 83
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer72
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 892
+        width: 85
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5058824, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer73
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 637
+        width: 84
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5119048, y: 0.48809522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer74
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 6
+        width: 84
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5119048, y: 0.4878049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer75
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 390
+        width: 85
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5176471, y: 0.4878049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer76
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1654
+        width: 86
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5232558, y: 0.48192772}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer77
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 1649
+        width: 86
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5232558, y: 0.48192772}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer78
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 684
+        width: 85
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5176471, y: 0.48192772}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer79
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 578
+        width: 86
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5232558, y: 0.4878049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer80
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1653
+        width: 86
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5232558, y: 0.48192772}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer81
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 16
+        width: 84
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5119048, y: 0.4878049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer82
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 1570
+        width: 86
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5116279, y: 0.4939759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer83
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 1645
+        width: 85
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5058824, y: 0.48809522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer84
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 619
+        width: 83
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer85
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 942
+        width: 84
+        height: 85
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer86
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 339
+        width: 83
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.48809522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer87
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 355
+        width: 82
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer88
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 93
+        width: 82
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.48809522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer89
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 707
+        width: 83
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer90
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 355
+        width: 82
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer91
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1804
+        width: 83
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5060241, y: 0.4827586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer92
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 1805
+        width: 84
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47674417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer93
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 1805
+        width: 84
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47674417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer94
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 264
+        width: 82
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer95
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 193
+        width: 82
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer96
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 752
+        width: 84
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5119048, y: 0.49411765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer97
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 109
+        width: 82
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.48809522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer98
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 98
+        width: 82
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.48809522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer99
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 90
+        width: 82
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.48809522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer100
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 265
+        width: 82
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer101
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1488
+        width: 84
+        height: 85
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer102
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 375
+        width: 83
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.48809522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer103
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 1413
+        width: 84
+        height: 85
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer104
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1487
+        width: 84
+        height: 85
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer105
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1230
+        width: 84
+        height: 86
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.4883721}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer106
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1048
+        width: 84
+        height: 86
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.4883721}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer107
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 1407
+        width: 84
+        height: 85
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer108
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 1405
+        width: 84
+        height: 85
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer109
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 883
+        width: 83
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer110
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 661
+        width: 83
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer111
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 576
+        width: 83
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer112
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 576
+        width: 83
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer113
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 656
+        width: 83
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer114
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 656
+        width: 83
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gema03_Layer115
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 736
+        width: 83
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 176
+        width: 84
+        height: 83
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.45783132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 2
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 1008
+        width: 84
+        height: 83
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.45783132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 3
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 105
+        width: 83
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.45783132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 4
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 20
+        width: 83
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.45783132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 5
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 429
+        width: 83
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.45238096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 6
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 775
+        width: 83
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.45882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 7
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 544
+        width: 83
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.4642857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 8
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 887
+        width: 83
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.4642857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 9
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 1124
+        width: 83
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.4642857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 10
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 203
+        width: 83
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.4642857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 11
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 260
+        width: 83
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.4642857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 12
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 166
+        width: 83
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.4642857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 13
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 496
+        width: 83
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.4642857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 14
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 433
+        width: 84
+        height: 84
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.45238096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 15
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1221
+        width: 86
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45783132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 16
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 659
+        width: 85
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5058824, y: 0.45783132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 17
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 1806
+        width: 85
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5176471, y: 0.44705883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 18
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 57
+        width: 84
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5119048, y: 0.46341464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 19
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 504
+        width: 86
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5232558, y: 0.46341464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 20
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 760
+        width: 86
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5232558, y: 0.45679012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 21
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 901
+        width: 85
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5176471, y: 0.46341464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 22
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 54
+        width: 85
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5176471, y: 0.45679012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 23
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 501
+        width: 86
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5116279, y: 0.45679012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 24
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 1170
+        width: 87
+        height: 82
+      alignment: 9
+      pivot: {x: 0.51724136, y: 0.4512195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 25
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 707
+        width: 86
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5116279, y: 0.4512195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 26
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 953
+        width: 86
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5116279, y: 0.4512195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 27
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 1006
+        width: 86
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5116279, y: 0.46341464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 28
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 793
+        width: 86
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5116279, y: 0.45679012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 29
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 808
+        width: 88
+        height: 82
+      alignment: 9
+      pivot: {x: 0.52272725, y: 0.46341464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 30
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 800
+        width: 88
+        height: 79
+      alignment: 9
+      pivot: {x: 0.52272725, y: 0.4556962}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 31
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 793
+        width: 88
+        height: 80
+      alignment: 9
+      pivot: {x: 0.52272725, y: 0.4625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 32
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 519
+        width: 88
+        height: 80
+      alignment: 9
+      pivot: {x: 0.52272725, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 33
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 99
+        width: 87
+        height: 79
+      alignment: 9
+      pivot: {x: 0.51724136, y: 0.4556962}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 34
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 827
+        width: 88
+        height: 79
+      alignment: 9
+      pivot: {x: 0.52272725, y: 0.4556962}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 35
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 845
+        width: 88
+        height: 79
+      alignment: 9
+      pivot: {x: 0.52272725, y: 0.4556962}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 36
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 415
+        width: 88
+        height: 79
+      alignment: 9
+      pivot: {x: 0.52272725, y: 0.4556962}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 37
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1728
+        width: 89
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5280899, y: 0.45679012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 38
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 634
+        width: 86
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5116279, y: 0.46341464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 39
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 554
+        width: 86
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5116279, y: 0.4512195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 40
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 1712
+        width: 86
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5116279, y: 0.45679012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 41
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 600
+        width: 86
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5232558, y: 0.4512195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 42
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1442
+        width: 85
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5176471, y: 0.45348838}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 43
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 629
+        width: 84
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5119048, y: 0.45783132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 44
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 871
+        width: 83
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.4642857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 45
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 1805
+        width: 84
+        height: 86
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.4651163}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 46
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 1163
+        width: 82
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.45882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 47
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 1805
+        width: 84
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5119048, y: 0.4651163}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 48
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 758
+        width: 82
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5243902, y: 0.45348838}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 49
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 619
+        width: 82
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5243902, y: 0.45348838}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 50
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 644
+        width: 80
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5125, y: 0.45454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 51
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 998
+        width: 80
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5125, y: 0.45454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 52
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 996
+        width: 80
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5125, y: 0.45454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 53
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 1074
+        width: 80
+        height: 87
+      alignment: 9
+      pivot: {x: 0.525, y: 0.4597701}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 54
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 993
+        width: 78
+        height: 89
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.47191012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 55
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 440
+        width: 78
+        height: 89
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.46067417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 56
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1494
+        width: 79
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5063291, y: 0.45555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 57
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 719
+        width: 77
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5194805, y: 0.46153846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 58
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 410
+        width: 77
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5194805, y: 0.45555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 59
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 410
+        width: 76
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5131579, y: 0.46153846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 60
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 412
+        width: 76
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5131579, y: 0.46153846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 61
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 1079
+        width: 76
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5131579, y: 0.4623656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 62
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 1147
+        width: 76
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5131579, y: 0.4623656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 63
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1175
+        width: 77
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5064935, y: 0.4623656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 64
+      rect:
+        serializedVersion: 2
+        x: 1957
+        y: 1350
+        width: 76
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5131579, y: 0.46153846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 65
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 1470
+        width: 77
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5064935, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 66
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 44
+        width: 75
+        height: 91
+      alignment: 9
+      pivot: {x: 0.52, y: 0.46153846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 67
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 33
+        width: 75
+        height: 91
+      alignment: 9
+      pivot: {x: 0.52, y: 0.46153846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 68
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 1517
+        width: 76
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5131579, y: 0.46153846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 69
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 920
+        width: 76
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5131579, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 70
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 1623
+        width: 77
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5194805, y: 0.4673913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 71
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1542
+        width: 79
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5063291, y: 0.45555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 72
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 548
+        width: 78
+        height: 90
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.45555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 73
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 1539
+        width: 79
+        height: 90
+      alignment: 9
+      pivot: {x: 0.51898736, y: 0.46666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 74
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 1232
+        width: 79
+        height: 88
+      alignment: 9
+      pivot: {x: 0.51898736, y: 0.45454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 75
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 1321
+        width: 81
+        height: 88
+      alignment: 9
+      pivot: {x: 0.50617284, y: 0.45454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 76
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 1375
+        width: 81
+        height: 88
+      alignment: 9
+      pivot: {x: 0.50617284, y: 0.4659091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 77
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 438
+        width: 80
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5125, y: 0.47126436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 78
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 151
+        width: 81
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5185185, y: 0.45882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 79
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 1729
+        width: 83
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5060241, y: 0.4597701}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 80
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 493
+        width: 83
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5060241, y: 0.45882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 81
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 779
+        width: 82
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.45882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 82
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 123
+        width: 83
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.45783132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 83
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 824
+        width: 83
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.45882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 84
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 1244
+        width: 86
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5116279, y: 0.45783132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 85
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 829
+        width: 85
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5058824, y: 0.45783132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 86
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 1731
+        width: 85
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5176471, y: 0.44705883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 87
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 694
+        width: 84
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5119048, y: 0.4698795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 88
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1219
+        width: 86
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5232558, y: 0.45783132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 89
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 956
+        width: 85
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5176471, y: 0.46341464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 90
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 860
+        width: 86
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5232558, y: 0.45679012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 91
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 484
+        width: 85
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5176471, y: 0.46341464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 92
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 474
+        width: 86
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5232558, y: 0.46341464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 93
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 606
+        width: 84
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5119048, y: 0.45238096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 94
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 575
+        width: 84
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5119048, y: 0.45783132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 95
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 543
+        width: 84
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5119048, y: 0.45783132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 96
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 628
+        width: 83
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.4642857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 97
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 146
+        width: 83
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.45783132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 98
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1302
+        width: 84
+        height: 85
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.47058824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 99
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 1289
+        width: 82
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.45882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 100
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 202
+        width: 82
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.45882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 101
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 497
+        width: 84
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 102
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 597
+        width: 83
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5060241, y: 0.45882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 103
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 914
+        width: 83
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.45882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 104
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 558
+        width: 83
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.45882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 105
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 676
+        width: 83
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.45882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 106
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 1650
+        width: 84
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5119048, y: 0.45882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 107
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 466
+        width: 83
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5060241, y: 0.45882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 108
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 450
+        width: 83
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5060241, y: 0.45882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 109
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 247
+        width: 82
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.45882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 110
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 264
+        width: 82
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.45882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 111
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 254
+        width: 82
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.45882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 112
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 234
+        width: 82
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.45882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 113
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 234
+        width: 83
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.4642857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 114
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 1627
+        width: 84
+        height: 85
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.47058824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 115
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 234
+        width: 84
+        height: 83
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.45783132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 116
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 208
+        width: 84
+        height: 83
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.45783132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 117
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 73
+        width: 83
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.45783132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 118
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 80
+        width: 83
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.45783132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 119
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 734
+        width: 83
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.45882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 120
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 575
+        width: 83
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.45882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 121
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 492
+        width: 83
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.45882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 122
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 657
+        width: 83
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.45882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 123
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 881
+        width: 83
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.4642857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 124
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 581
+        width: 83
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.4642857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 125
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 532
+        width: 83
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.45882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POP_Layer3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1530
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POP_Layer4
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1804
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POP_Layer5
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1804
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POP_Layer6
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1804
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POP_Layer7
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1804
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POP_Layer8
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1804
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POP_Layer9
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1793
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POP_Layer10
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1804
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POP_Layer11
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1804
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POP_Layer12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1626
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POP_Layer13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1804
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POP_Layer14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1715
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POP_Layer15
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1804
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POP_Layer16
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1804
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POP_Layer17
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1804
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
