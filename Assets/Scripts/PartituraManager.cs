@@ -15,6 +15,8 @@ public class PartituraManager : MonoBehaviour {
 
     private bool bWaitNextWave = false;
 
+    public GameObject test;
+
 	// Use this for initialization
 	void Start () {
         // INSTANCIATE THE PARTITURES
@@ -37,6 +39,29 @@ public class PartituraManager : MonoBehaviour {
 	void Update () {
         if (bWaitNextWave) return;
 
+        float[] indexNote = { -100, -100 };
+
+        // CHECK IF ONE NOTE IS PRESSED
+        {
+            int currentNoteIndex = 0;
+            int toucheDetected = Input.touchCount < 3 ? Input.touchCount : 2;
+            for (int i = 0; i < toucheDetected; ++i)
+            {
+                Touch touch = Input.GetTouch(i);
+                if (touch.phase == TouchPhase.Began)
+                {
+                    Vector3 touchConvert = Camera.main.ScreenToWorldPoint(touch.position);
+                    touchConvert.z = 0;
+                    test.transform.position = touchConvert;
+
+                    if(touchConvert.x < -4.5f && touchConvert.x > -6.5f )
+                    {
+                        indexNote[currentNoteIndex] = touchConvert.y;
+                    }
+                }
+            }
+        }
+
         // MOVE THE NOTES (WAVE)
         {
             Vector3 tmpPos = Partituras[PartituraActual].transform.position;
@@ -44,10 +69,19 @@ public class PartituraManager : MonoBehaviour {
             int notes = Partituras[PartituraActual].transform.childCount;
             for (int index = 0; index < notes; index++)
             {
-                Note tmpNote = Partituras[PartituraActual].transform.GetChild(index).GetComponent<Note>();
-                if (!tmpNote.IsPlayed() && Partituras[PartituraActual].transform.GetChild(index).position.x <= -6.0f)
+                Transform tmpGO = Partituras[PartituraActual].transform.GetChild(index);
+                Note tmpNote = tmpGO.GetComponent<Note>();
+                if (!tmpNote.IsPlayed() && tmpGO.position.x >= -6.5f && tmpGO.position.x <= -4.5f)
                 {
-                    tmpNote.PlaySong(true);
+                    for (int noteIndex = 0; noteIndex < 2; noteIndex++)
+                    {
+                        if (Mathf.Abs(tmpGO.position.y - indexNote[0]) < 1.0f)
+                        {
+                            tmpNote.PlaySong(true);
+                        }
+                    }
+
+                    //tmpNote.PlaySong(true);
                 }
             }
 
