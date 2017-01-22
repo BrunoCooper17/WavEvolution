@@ -12,6 +12,7 @@ public class Note : MonoBehaviour {
     public AudioClip clipWrong;
 
     private bool bIsplayed = true;
+    private bool bApplyDamage = true;
 
     // Use this for initialization
     void Start () {
@@ -27,6 +28,7 @@ public class Note : MonoBehaviour {
     public void Init()
     {
         bIsplayed = false;
+        bApplyDamage = true;
         if(noteAnimation)
             noteAnimation.Play("idle");
     }
@@ -37,6 +39,7 @@ public class Note : MonoBehaviour {
         {
             noteAnimation.Play("Good");
             sound.clip = clipGood;
+            bApplyDamage = false;
         } else
         {
             //noteAnimation.Play("Bad");
@@ -50,5 +53,15 @@ public class Note : MonoBehaviour {
     public bool IsPlayed()
     {
         return bIsplayed;
+    }
+
+    public bool ApplyDamage()
+    {
+        if(bApplyDamage)
+        {
+            bApplyDamage = false;
+            return true;
+        }
+        return false;
     }
 }

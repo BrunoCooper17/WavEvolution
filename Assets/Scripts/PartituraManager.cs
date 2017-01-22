@@ -15,7 +15,11 @@ public class PartituraManager : MonoBehaviour {
 
     private bool bWaitNextWave = false;
 
-    public GameObject test;
+    public MoveAvatar avatarRef;
+
+    public int evolution = 0;
+
+    public bool bWin = false;
 
 	// Use this for initialization
 	void Start () {
@@ -52,7 +56,6 @@ public class PartituraManager : MonoBehaviour {
                 {
                     Vector3 touchConvert = Camera.main.ScreenToWorldPoint(touch.position);
                     touchConvert.z = 0;
-                    test.transform.position = touchConvert;
 
                     if(touchConvert.x < -4.5f && touchConvert.x > -6.5f )
                     {
@@ -71,7 +74,7 @@ public class PartituraManager : MonoBehaviour {
             {
                 Transform tmpGO = Partituras[PartituraActual].transform.GetChild(index);
                 Note tmpNote = tmpGO.GetComponent<Note>();
-                if (!tmpNote.IsPlayed() && tmpGO.position.x >= -6.5f && tmpGO.position.x <= -4.5f)
+                if (!tmpNote.IsPlayed() && tmpGO.position.x >= -6.75f && tmpGO.position.x <= -4.0f)
                 {
                     for (int noteIndex = 0; noteIndex < 2; noteIndex++)
                     {
@@ -94,9 +97,16 @@ public class PartituraManager : MonoBehaviour {
             bool bLoadNext = true;
             for (int index = 0; index < notes; index++)
             {
-                if (Partituras[PartituraActual].transform.GetChild(index).position.x > -7.0f)
+                if (Partituras[PartituraActual].transform.GetChild(index).position.x > -12.0f)
                 {
                     bLoadNext = false;
+                }
+                else if (Partituras[PartituraActual].transform.GetChild(index).position.x < -7.0f)
+                {
+                    if (Partituras[PartituraActual].transform.GetChild(index).GetComponent<Note>().ApplyDamage())
+                    {
+                        avatarRef.offsetX -= 1.0f;
+                    }
                 }
             }
 
@@ -109,8 +119,23 @@ public class PartituraManager : MonoBehaviour {
                     PartituraActual = 0;
                 }
 
-                Invoke("LoadPartiture", 5.0f);
+                Invoke("LoadPartiture", 7.0f);
                 bWaitNextWave = true;
+
+                evolution++;
+
+                switch(evolution)
+                {
+                    case 1:
+                        avatarRef.PrimeraEvolucion();
+                        break;
+                    case 2:
+                        avatarRef.SegundaEvolucion();
+                        break;
+                    case 3:
+                        bWin = true;
+                        break;
+                }
             }
         }
     }

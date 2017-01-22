@@ -1,0 +1,220 @@
+fileFormatVersion: 2
+guid: ea21ff8dcd24c49ccbcf8555e0f8b3fc
+timeCreated: 1485022452
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: animal2_body
+    21300002: animal2_brazo
+    21300004: animal2_muslo2
+    21300006: animal2_muslo1
+    21300008: animal2_chamorro2
+    21300010: animal2_chamorro1
+    21300012: animal2_pie2
+    21300014: animal2_pie1
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: tvOS
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: 13
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: animal2_body
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 541
+        width: 692
+        height: 691
+      alignment: 9
+      pivot: {x: 0.51750994, y: 0.39073628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animal2_brazo
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 1156
+        width: 328
+        height: 137
+      alignment: 9
+      pivot: {x: 0.11923069, y: 0.6886111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animal2_muslo2
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 847
+        width: 259
+        height: 235
+      alignment: 9
+      pivot: {x: 0.23417422, y: 0.75380754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animal2_muslo1
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 847
+        width: 278
+        height: 252
+      alignment: 9
+      pivot: {x: 0.19017018, y: 0.73925686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animal2_chamorro2
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 610
+        width: 220
+        height: 172
+      alignment: 9
+      pivot: {x: 0.8327848, y: 0.80046225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animal2_chamorro1
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 617
+        width: 235
+        height: 184
+      alignment: 9
+      pivot: {x: 0.8298698, y: 0.7808672}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animal2_pie2
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 262
+        width: 140
+        height: 277
+      alignment: 9
+      pivot: {x: 0.37695312, y: 0.8731374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animal2_pie1
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 264
+        width: 150
+        height: 297
+      alignment: 9
+      pivot: {x: 0.38515708, y: 0.9205127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

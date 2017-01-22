@@ -16,13 +16,13 @@ GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 4
+  serializedVersion: 5
   m_Component:
-  - 4: {fileID: 4856452564655850}
-  - 212: {fileID: 212549111485401626}
-  - 82: {fileID: 82204155587122024}
-  - 114: {fileID: 114368030514513510}
-  - 95: {fileID: 95383323426617834}
+  - component: {fileID: 4856452564655850}
+  - component: {fileID: 212549111485401626}
+  - component: {fileID: 82204155587122024}
+  - component: {fileID: 114368030514513510}
+  - component: {fileID: 95383323426617834}
   m_Layer: 0
   m_Name: Note 3
   m_TagString: Untagged
@@ -38,11 +38,11 @@ Transform:
   m_GameObject: {fileID: 1633831373912384}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1.5, y: 1.5, z: 1.5}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!82 &82204155587122024
 AudioSource:
   m_ObjectHideFlags: 1
@@ -59,6 +59,7 @@ AudioSource:
   Loop: 0
   Mute: 0
   Spatialize: 0
+  SpatializePostEffects: 0
   Priority: 128
   DopplerLevel: 1
   MinDistance: 1
@@ -71,12 +72,14 @@ AudioSource:
   rolloffCustomCurve:
     serializedVersion: 2
     m_Curve:
-    - time: 0
+    - serializedVersion: 2
+      time: 0
       value: 1
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-    - time: 1
+    - serializedVersion: 2
+      time: 1
       value: 0
       inSlope: 0
       outSlope: 0
@@ -87,7 +90,8 @@ AudioSource:
   panLevelCustomCurve:
     serializedVersion: 2
     m_Curve:
-    - time: 0
+    - serializedVersion: 2
+      time: 0
       value: 0
       inSlope: 0
       outSlope: 0
@@ -98,7 +102,8 @@ AudioSource:
   spreadCustomCurve:
     serializedVersion: 2
     m_Curve:
-    - time: 0
+    - serializedVersion: 2
+      time: 0
       value: 0
       inSlope: 0
       outSlope: 0
@@ -109,7 +114,8 @@ AudioSource:
   reverbZoneMixCustomCurve:
     serializedVersion: 2
     m_Curve:
-    - time: 0
+    - serializedVersion: 2
+      time: 0
       value: 1
       inSlope: 0
       outSlope: 0
@@ -126,7 +132,7 @@ Animator:
   m_GameObject: {fileID: 1633831373912384}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 03bde3883d24c7c4a9085dc51a420d41, type: 2}
+  m_Controller: {fileID: 9100000, guid: fe3eae9122b5a37428705574451affde, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -145,7 +151,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b241fa8b4fbafa3438282e8513488db9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clipGood: {fileID: 8300000, guid: d663595364e7c5843a896668adaec893, type: 3}
+  noteAnimation: {fileID: 0}
+  clipGood: {fileID: 8300000, guid: 8dc17328ad46d1c4e848e26a587b2af0, type: 3}
   clipWrong: {fileID: 0}
 --- !u!212 &212549111485401626
 SpriteRenderer:
@@ -161,7 +168,9 @@ SpriteRenderer:
   m_ReflectionProbeUsage: 0
   m_Materials:
   - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
-  m_SubsetIndices: 
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
   m_StaticBatchRoot: {fileID: 0}
   m_ProbeAnchor: {fileID: 0}
   m_LightProbeVolumeOverride: {fileID: 0}
@@ -169,7 +178,7 @@ SpriteRenderer:
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
-  m_SelectedWireframeHidden: 1
+  m_SelectedEditorRenderState: 0
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
