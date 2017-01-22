@@ -19,7 +19,6 @@ public class AmbientParallax : MonoBehaviour {
 	void Start () {
         TrigClass = new TrigonometriaClass();
         TrigClass.init();
-        // INSTANTIATE THE WAVES
         spritesLayers = new GameObject[layerReference.Length, spritesPerLayer];
         layerOffsetTime = new float[layerReference.Length];
         SetPositionScene();
@@ -81,7 +80,7 @@ public class AmbientParallax : MonoBehaviour {
             for (int waveIndex = 0; waveIndex < spritesPerLayer; waveIndex++)
             {
                 Vector3 tmpPos = spritesLayers[layer, waveIndex].transform.position;
-                tmpPos.x -= Time.deltaTime * GlobalVelocity + +TrigClass.precalculatedSinRad(layerOffsetTime[layer]) * 0.05f;
+                tmpPos.x -= Time.deltaTime * GlobalVelocity;
                 spritesLayers[layer, waveIndex].transform.position = tmpPos;
             }
         }

@@ -41,7 +41,7 @@ public class FishParallax : MonoBehaviour {
                 spritesLayers[layer, waveIndex] = Instantiate<GameObject>(layerReference[layer]);
 
                 Vector3 tmpPos = spritesLayers[layer, waveIndex].transform.position;
-                tmpPos.x = (waveIndex - 2) * LayerSize;
+                tmpPos.x = (waveIndex - 2) * 10;
                 tmpPos.y = layer * LayerSeparation - InitialPostionOffsetY;
                 spritesLayers[layer, waveIndex].transform.position = tmpPos;
             }
@@ -72,9 +72,9 @@ public class FishParallax : MonoBehaviour {
             for (int waveIndex = 0; waveIndex < spritesPerLayer; waveIndex++)
             {
                 Vector3 tmpPos = spritesLayers[layer, waveIndex].transform.position;
-                if (tmpPos.x > 65.0f)
+                if (tmpPos.x > 30.0f)
                 {
-                    tmpPos.x = spritesLayers[layer, waveIndex - 1 < 0 ? spritesPerLayer - 1 : waveIndex - 1].transform.position.x - LayerSize;
+                    tmpPos.x = spritesLayers[layer, waveIndex - 1 < 0 ? spritesPerLayer - 1 : waveIndex - 1].transform.position.x - 40;
                 }
                 spritesLayers[layer, waveIndex].transform.position = tmpPos;
             }
